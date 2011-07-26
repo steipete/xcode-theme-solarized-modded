@@ -11,4 +11,4 @@ Installation
 ------------
 Copy the .dvtcolortheme files from this directory into ~/Library/Developer/Xcode/UserData/FontAndColorThemes - you may have to make this folder if you haven't changed your color themes. Restart Xcode, select new Theme in Color settings. That's it.
 
-(http://cl.ly/0d2v0K0z0n2L3S151y2l/Screen_Shot_2011-07-26_at_10.51.50_AM.png "Screenshot")
+![Screenshot](http://cl.ly/0d2v0K0z0n2L3S151y2l/Screen_Shot_2011-07-26_at_10.51.50_AM.png "Screenshot")
