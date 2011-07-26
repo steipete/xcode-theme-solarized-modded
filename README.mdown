@@ -1,14 +1,14 @@
 ## Solarized Dark, @steipete mod
 
 Over the years I found the perfect theme for working with Xcode.
-It's based on the excellent solarized themeset: https://github.com/altercation/solarized
+It's based on the excellent solarized themeset: https://github.com/altercation/solarized  
 If you like dark coding themes, check it out!
 
 Font is Meslo DZ, a customized version of Apple’s Menlo-Regular font. (Apache v2 licensed)
 https://github.com/andreberg/Meslo-Font
 
+![Screenshot](http://f.cl.ly/items/3R0n3r2q3i1n431c1j1C/Screen%20Shot%202011-07-26%20at%2010.51.50%20AM.png "Screenshot")
+
 Installation
 ------------
 Copy the .dvtcolortheme files from this directory into ~/Library/Developer/Xcode/UserData/FontAndColorThemes - you may have to make this folder if you haven't changed your color themes. Restart Xcode, select new Theme in Color settings. That's it.
-
-![Screenshot](http://f.cl.ly/items/3R0n3r2q3i1n431c1j1C/Screen%20Shot%202011-07-26%20at%2010.51.50%20AM.png "Screenshot")
